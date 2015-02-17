@@ -17,5 +17,5 @@ arXiv preprint:
 http://arxiv.org/abs/1502.03532
 
 demo:
-[youtube]:http://youtu.be/GZ2u2tvzgi4
-[youku]: http://v.youku.com/v_show/id_XODkzMDgxNjM2.html
+http://youtu.be/GZ2u2tvzgi4
+http://v.youku.com/v_show/id_XODkzMDgxNjM2.html
