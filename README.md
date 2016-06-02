@@ -20,3 +20,7 @@ demo:
 http://youtu.be/GZ2u2tvzgi4
 ,
 http://v.youku.com/v_show/id_XODkzMDgxNjM2.html
+
+Code Prerequisites:
+Opencv1.0 and VS2008
+
