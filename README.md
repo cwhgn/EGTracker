@@ -22,7 +22,7 @@ http://youtu.be/GZ2u2tvzgi4
 http://v.youku.com/v_show/id_XODkzMDgxNjM2.html
 
 Code Prerequisites:
-VS2008
+VS2008;
 Opencv1.0 + Opencv2.0 (The combination of opencv1.0 and 2.0 can be find in opencv file.)
 FYI, as our project import some other libs, which use either opencv1.0 or opencv 2.0, so we have to require both opencv1.0 and opencv 2.0 in our project for these libs.
 
